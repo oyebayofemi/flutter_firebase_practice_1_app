@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042341866534",
+    "project_id": "fir-usertesting-94558",
+    "storage_bucket": "fir-usertesting-94558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042341866534:android:9edf52d251f5d62fd84ae7",
+        "android_client_info": {
+          "package_name": "com.femi.firebase_practice_1_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042341866534-slrilbrm104dq9oec7oqn9fgd4l1s9es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3bdB-KQXAgsAF2V_9JbY4cAOBBLRXcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042341866534-slrilbrm104dq9oec7oqn9fgd4l1s9es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
